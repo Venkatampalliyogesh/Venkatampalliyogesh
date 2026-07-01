@@ -2,11 +2,11 @@
 
 # Hi 👋 I'm Venkatampalli Yogesh
 
-### Software Engineer | Java Full Stack Developer | Spring Boot Developer
+### Software Engineer | Full Stack Developer Fresher | Software Engineer Trainee
 
 <p>
-Passionate about building scalable Full Stack applications using Java, React Js, Spring Boot, REST APIs, and SQL.
-Currently looking for Software Engineer and Java Backend Developer opportunities.
+Passionate about building scalable Full Stack Web applications using Java, React Js, Spring Boot, REST APIs, and MySQL.
+Currently looking for Software Engineer and Full Stack Developer Fresher
 </p>
 
 </div>
@@ -17,7 +17,7 @@ Currently looking for Software Engineer and Java Backend Developer opportunities
 
 🎓 B.Tech in Computer Science Engineering (2026)
 
-💼 Software Engineer passionate about Full Stack development
+💼 Software Engineer passionate about Full Stack Web Development
 
 🌱 Currently learning
 
@@ -151,13 +151,13 @@ Implemented secure authentication, file management, and CRUD operations using Sp
 
 # 🎯 Current Goals
 
-✅ Master Spring Boot
+✅ Master in DSA
 
-✅ Learn Microservices
+✅ Learn AI and Cloud Technologies
 
-✅ Improve System Design
+✅ Improve Problem Solving
 
-✅ Solve 500+ DSA Problems
+✅ Full Hands on Experience in Full Stack Tools
 
 ✅ Contribute to Open Source
 
