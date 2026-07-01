@@ -148,27 +148,6 @@ Implemented secure authentication, file management, and CRUD operations using Sp
 
 ---
 
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkatampalliyogesh&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Venkatampalliyogesh&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatampalliyogesh&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Venkatampalliyogesh&theme=tokyonight&no-frame=true)
-
----
-
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkatampalliyogesh&theme=tokyo-night)
-
----
 
 # 🎯 Current Goals
 
