@@ -2,10 +2,10 @@
 
 # Hi 👋 I'm Venkatampalli Yogesh
 
-### Software Engineer | Java Backend Developer | Spring Boot Developer
+### Software Engineer | Java Full Stack Developer | Spring Boot Developer
 
 <p>
-Passionate about building scalable backend applications using Java, Spring Boot, REST APIs, and SQL.
+Passionate about building scalable Full Stack applications using Java, React Js, Spring Boot, REST APIs, and SQL.
 Currently looking for Software Engineer and Java Backend Developer opportunities.
 </p>
 
