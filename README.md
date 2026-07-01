@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi 👋 I'm Venkatampalli Yogesh
+# Hi 👋, I'm Venkatampalli Yogesh
 
-### Software Engineer | Full Stack Developer Fresher | Software Engineer Trainee
+### Software Engineer | Java | Spring Boot | React.js
 
 <p>
-Passionate about building scalable Full Stack Web applications using Java, React Js, Spring Boot, REST APIs, and MySQL.
-Currently looking for Software Engineer and Full Stack Developer Fresher
+Passionate about building scalable <strong>Full-Stack Web Applications</strong> using
+<strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React.js</strong>,
+<strong>REST APIs</strong>, and <strong>MySQL</strong>.
+<br>
+Currently seeking <strong>Software Engineer</strong> and <strong>Full-Stack Developer</strong> opportunities.
 </p>
 
 </div>
@@ -15,172 +18,215 @@ Currently looking for Software Engineer and Full Stack Developer Fresher
 
 # 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science Engineering (2026)
+<table>
+<tr>
 
-💼 Software Engineer passionate about Full Stack Web Development
+<td width="50%" valign="top">
 
-🌱 Currently learning
+### 🎓 Profile
+
+- 🎓 B.Tech in Computer Science Engineering (2026)
+- 💼 Software Engineer passionate about Full-Stack Web Development
+- 📍 Bengaluru, India
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
 
 - Advanced Spring Boot
-- Microservices
-- React Js
+- Microservices and basics on AI
+- React.js
 - System Design
 - Data Structures & Algorithms
 
-💡 Interested in
+</td>
 
-- Full Stack Development
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💡 Interested In
+
+- Full-Stack Development
 - Java
 - Distributed Systems
 - Problem Solving
 
-📍 Bengaluru, India
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Looking For
+
+- Software Engineer Roles
+- Full-Stack Developer Roles
+- Java Developer Opportunities
+- Backend Development Projects
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+<table>
+<tr>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
----
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 
-### Backend
+</td>
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+<td width="50%" valign="top">
 
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
+### ⚙️ Backend
 
-![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
----
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
 
-### Frontend
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
 
-HTML
+</td>
 
-CSS
+</tr>
 
-JavaScript
+<tr>
 
-React
+<td width="50%" valign="top">
 
----
+### 🎨 Frontend
 
-### Database
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-MySQL
+</td>
 
----
+<td width="50%" valign="top">
 
-### Tools
+### 🗄 Database & Tools
 
-Git
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,idea" />
+</p>
 
-GitHub
+</td>
 
-Postman
+</tr>
 
-IntelliJ IDEA
-
-VS Code
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📝 Smart Complaint Management System
-
-Built a secure complaint management platform with authentication, role-based access, complaint tracking, and admin dashboard.
-
-**Tech Used**
-
-Java
-
-Spring Boot
-
-Spring Security
-
-REST APIs
-
-MySQL
-
----
-
-## 🏦 Banking Backend System
-
-Developed an ATM backend system supporting account management, deposits, withdrawals, and balance enquiry.
-
-**Tech Used**
-
-Core Java
-
-Collections
-
-Exception Handling
-
-OOP
-
----
-
-## ☁️ Secure Cloud File Storage System
-
-Implemented secure authentication, file management, and CRUD operations using Spring Boot.
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 📝 **Smart Complaint Management System** | Built a secure complaint management platform with authentication, role-based access, complaint tracking, and an admin dashboard. | Java • Spring Boot • Spring Security • REST APIs • MySQL |
+| 🏦 **Banking Backend System** | Developed an ATM backend system supporting account management, deposits, withdrawals, and balance inquiries. | Core Java • Collections • Exception Handling • OOP |
+| ☁️ **Secure Cloud File Storage System** | Implemented secure authentication, file management, and CRUD operations using Spring Boot. | Java • Spring Boot • MySQL |
 
 ---
 
 # 📜 Certifications
 
-✔ Oracle Cloud Infrastructure AI Foundations
+<table>
+<tr>
 
-✔ ServiceNow Certified Implementation Specialist – Data Foundations
+<td width="50%" valign="top">
 
-✔ DSA in Java – Scaler
+🏅 Oracle Cloud Infrastructure AI Foundations
 
-✔ Python 101 for Data Science
+🏅 ServiceNow Certified Implementation Specialist – Data Foundations
 
-✔ ServiceNow Virtual Internship
+🏅 DSA in Java – Scaler
+
+</td>
+
+<td width="50%" valign="top">
+
+🏅 Python 101 for Data Science
+
+🏅 ServiceNow Virtual Internship
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 
 # 🎯 Current Goals
 
-✅ Master in DSA
+<table>
+<tr>
 
-✅ Learn AI and Cloud Technologies
+<td width="50%" valign="top">
 
-✅ Improve Problem Solving
+- ✅ Master Data Structures & Algorithms
+- ✅ Learn AI and Cloud Technologies
+- ✅ Improve Problem-Solving Skills
 
-✅ Full Hands on Experience in Full Stack Tools
+</td>
 
-✅ Contribute to Open Source
+<td width="50%" valign="top">
+
+- ✅ Gain Hands-on Experience with Full-Stack Technologies
+- ✅ Contribute to Open Source
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📫 Connect With Me
 
-🌐 Portfolio
+<div align="center">
 
-https://yogesh-personal-website.vercel.app/
+<a href="https://yogesh-personal-website.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-💼 LinkedIn
+<a href="https://www.linkedin.com/in/venkatampalliv2411yogesh0324/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-https://www.linkedin.com/in/venkatampalliv2411yogesh0324/
+<a href="https://github.com/Venkatampalliyogesh" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-💻 GitHub
+<a href="mailto:yogesh.v2411@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-https://github.com/Venkatampalliyogesh
-
-📧 Email
-
-yogesh.v2411@gmail.com
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building scalable applications, continuously learning, and growing as a Software Engineer."*
+
+</div>
